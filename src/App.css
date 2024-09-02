@@ -1,0 +1,10 @@
+.active {
+    width: 90px;
+    height: 40px;
+    border-radius: 10px;
+    background-color: #1ABC9C;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    color: white;
+}
